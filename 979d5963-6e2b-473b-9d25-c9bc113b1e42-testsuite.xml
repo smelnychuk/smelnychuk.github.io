@@ -1,0 +1,232 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1589530616850' stop='1589530788946'>
+    <name>5 major hosts:</name>
+    <title>5 major hosts:</title>
+    <test-cases>
+        <test-case start='1589530616855' status='passed' stop='1589530657094'>
+            <name>Test transition to payment on CheckMyPersonalStatement.net</name>
+            <title>Test transition to payment on CheckMyPersonalStatement.net</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1589530618756' status='passed' stop='1589530642341'>
+                    <name>I am on page "https://www.checkmypersonalstatement.net/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</name>
+                    <title>I am on page "https://www.checkmypersonalstatement.net/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530642341' status='passed' stop='1589530642994'>
+                    <name>I wait for element "#essayform-terms", 100</name>
+                    <title>I wait for element "#essayform-terms", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530642994' status='passed' stop='1589530643813'>
+                    <name>I click "#essayform-terms"</name>
+                    <title>I click "#essayform-terms"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530643813' status='passed' stop='1589530644559'>
+                    <name>I click "//*[@id="orderForm"]/div[2]/div[3]/div[2]/div[2]/button"</name>
+                    <title>I click "//*[@id="orderForm"]/div[2]/div[3]/div[2]/div[2]/button"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530644559' status='passed' stop='1589530656493'>
+                    <name>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</name>
+                    <title>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530656493' status='passed' stop='1589530657091'>
+                    <name>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</name>
+                    <title>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1589530657629' status='passed' stop='1589530689747'>
+            <name>Test transition to payment on LoRService.com</name>
+            <title>Test transition to payment on LoRService.com</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1589530658600' status='passed' stop='1589530674739'>
+                    <name>I am on page "https://www.lorservice.com/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</name>
+                    <title>I am on page "https://www.lorservice.com/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530674739' status='passed' stop='1589530675386'>
+                    <name>I wait for element "#essayform-terms", 100</name>
+                    <title>I wait for element "#essayform-terms", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530675387' status='passed' stop='1589530676164'>
+                    <name>I click "#essayform-terms"</name>
+                    <title>I click "#essayform-terms"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530676165' status='passed' stop='1589530676948'>
+                    <name>I click "//*[@id="orderForm"]/div[2]/div[3]/div[2]/div[2]/button"</name>
+                    <title>I click "//*[@id="orderForm"]/div[2]/div[3]/div[2]/div[2]/button"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530676949' status='passed' stop='1589530689136'>
+                    <name>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</name>
+                    <title>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530689136' status='passed' stop='1589530689745'>
+                    <name>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</name>
+                    <title>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1589530690212' status='passed' stop='1589530726398'>
+            <name>Test transition to payment on PersonalStatementWritingServices.net</name>
+            <title>Test transition to payment on PersonalStatementWritingServices.net</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1589530691170' status='passed' stop='1589530708389'>
+                    <name>I am on page "https://www.personalstatementwritingservices.net/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</name>
+                    <title>I am on page "https://www.personalstatementwritingservices.net/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530708390' status='passed' stop='1589530709134'>
+                    <name>I wait for element "#essayform-terms", 100</name>
+                    <title>I wait for element "#essayform-terms", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530709134' status='passed' stop='1589530710016'>
+                    <name>I click "#essayform-terms"</name>
+                    <title>I click "#essayform-terms"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530710016' status='passed' stop='1589530710837'>
+                    <name>I click "//*[@id="orderForm"]/div[2]/div[3]/div[2]/div[2]/button"</name>
+                    <title>I click "//*[@id="orderForm"]/div[2]/div[3]/div[2]/div[2]/button"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530710837' status='passed' stop='1589530725749'>
+                    <name>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</name>
+                    <title>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530725749' status='passed' stop='1589530726396'>
+                    <name>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</name>
+                    <title>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1589530726916' status='passed' stop='1589530756696'>
+            <name>Test transition to payment on SoPServices.net</name>
+            <title>Test transition to payment on SoPServices.net</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1589530727856' status='passed' stop='1589530741861'>
+                    <name>I am on page "https://www.sopservices.net/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</name>
+                    <title>I am on page "https://www.sopservices.net/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530741861' status='passed' stop='1589530742566'>
+                    <name>I wait for element "#essayform-terms", 100</name>
+                    <title>I wait for element "#essayform-terms", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530742566' status='passed' stop='1589530743362'>
+                    <name>I click "#essayform-terms"</name>
+                    <title>I click "#essayform-terms"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530743362' status='passed' stop='1589530744189'>
+                    <name>I click "//*[@id="orderForm"]/div[2]/div[3]/div[2]/div[2]/button"</name>
+                    <title>I click "//*[@id="orderForm"]/div[2]/div[3]/div[2]/div[2]/button"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530744189' status='passed' stop='1589530755635'>
+                    <name>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</name>
+                    <title>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530755636' status='passed' stop='1589530756695'>
+                    <name>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</name>
+                    <title>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1589530757191' status='passed' stop='1589530788474'>
+            <name>Test transition to payment on ResidencyPersonalStatements.net</name>
+            <title>Test transition to payment on ResidencyPersonalStatements.net</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1589530758070' status='passed' stop='1589530774497'>
+                    <name>I am on page "https://residencypersonalstatements.net/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</name>
+                    <title>I am on page "https://residencypersonalstatements.net/order?EssayForm[instruction]=Test%20order&amp;EssayForm[first_name]=Test&amp;EssayForm[email]=sergei_melnichuk@govitall.com&amp;EssayForm[phone]=11111111111111"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530774497' status='passed' stop='1589530775199'>
+                    <name>I wait for element "#essayform-terms", 100</name>
+                    <title>I wait for element "#essayform-terms", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530775199' status='passed' stop='1589530776033'>
+                    <name>I click "#essayform-terms"</name>
+                    <title>I click "#essayform-terms"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530776033' status='passed' stop='1589530776926'>
+                    <name>I click "//*[@id="orderForm"]/div[2]/div[6]/div[3]/button"</name>
+                    <title>I click "//*[@id="orderForm"]/div[2]/div[6]/div[3]/button"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530776926' status='passed' stop='1589530787864'>
+                    <name>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</name>
+                    <title>I wait for element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img", 100</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1589530787866' status='passed' stop='1589530788473'>
+                    <name>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</name>
+                    <title>I see element "//*[@id="checkout_wrapper"]/div[1]/div/div/div[1]/img"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
